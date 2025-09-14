@@ -177,6 +177,5 @@ This builds the foundation for real-world hacking, privilege escalation, and OSC
 
 ---
 
-📂 GitHub Repo: [link here]  
-📝 Blog: [Medium Link]  
-🎥 YouTube: [Video Link]
+📂 GitHub Repo: https://github.com/regaan-sec/bandit-solutions/  
+📝 Blog: https://regaan.rthackers.com 
